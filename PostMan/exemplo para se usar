@@ -1,0 +1,7 @@
+{
+  "nome": "julia",
+  "email": "julia@gmail.com",
+  "senha": "Julia@12"
+}
+
+a senha tem que ter 8 caracteres com pelo menos, um maiusculo, um minusculo e um caractere especial
