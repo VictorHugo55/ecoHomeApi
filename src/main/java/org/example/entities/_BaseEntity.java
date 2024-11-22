@@ -1,7 +1,7 @@
 package org.example.entities;
 
 public abstract class _BaseEntity {
-    private int id;
+    public int id;
 
     public _BaseEntity() {
     }
